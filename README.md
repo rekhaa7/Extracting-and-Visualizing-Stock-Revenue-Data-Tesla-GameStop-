@@ -13,3 +13,5 @@ This project uses Python to extract historical stock data with yfinance, scrape 
 ### Main technologies
 -  Python, Jupyter Notebook
 -  yfinance, pandas, requests, beautifulsoup4 (optional), plotly
+
+Note: If the interactive graphs do not appear in your viewer, check the saved static screenshots of the final Tesla and GameStop graphs as Plot Tesla Stock Graph.png and Plot GameStop Stock Graph.png respectively are included in this repository.
